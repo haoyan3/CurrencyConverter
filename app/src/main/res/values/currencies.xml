@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="currency_array">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>CNY</item>
-        <item>BGN</item>
-        <item>BRL</item>
-        <item>JPY</item>
-        <item>ILS</item>
+        <item>USD</item> //USA Dollar
+        <item>CAD</item> //Canada Dollar
+        <item>CHF</item> //Switzerland Franc
+        <item>CNY</item> //China Yuan
+        <item>EUR</item> //Euro
+        <item>GBP</item> //Great Britain Pound
+        <item>HKD</item> //Hong Kong Dollar
+        <item>INR</item> //India Rupee
+        <item>JPY</item> //Japan Yen
 
     </string-array>
 </resources>
