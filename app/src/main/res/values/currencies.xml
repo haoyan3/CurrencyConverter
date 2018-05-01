@@ -3,7 +3,6 @@
     <string-array name="currency_array">
         <item>USD</item> //USA Dollar
         <item>CAD</item> //Canada Dollar
-        <item>CHF</item> //Switzerland Franc
         <item>CNY</item> //China Yuan
         <item>EUR</item> //Euro
         <item>GBP</item> //Great Britain Pound
